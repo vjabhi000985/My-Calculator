@@ -36,6 +36,13 @@ This desktop application is a Scientific Calculator implemented in Java using Sw
 - Implementing Functions, Loops, Conditionals, and Variables.
 - Creating a user-friendly GUI with Java Swing and AWT.
 
+## Screenshots
+![Screenshot (9)](https://github.com/vjabhi000985/My-Calculator/assets/46738718/8f99d34d-97f7-42e0-895c-43a62a815620)
+![Screenshot (10)](https://github.com/vjabhi000985/My-Calculator/assets/46738718/dc704b33-c04b-46e7-ac2f-1426eb5b50b7)
+![Screenshot (11)](https://github.com/vjabhi000985/My-Calculator/assets/46738718/691f5a24-d145-4118-acbb-04492e4b3f10)
+![Screenshot (12)](https://github.com/vjabhi000985/My-Calculator/assets/46738718/bc8f41ec-72fe-4ff7-b4ce-342b94a3d62b)
+
+
 ## Recommended Audience
 
 Intermediate to Advance in Java.
