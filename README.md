@@ -51,6 +51,5 @@ Intermediate to Advance in Java.
 
 2 – 2.5 hours
 
-## Author
-
-[Pandey Abhishek Nath Roy]
+## Credits
+Developed by *Pandey Abhishek Nath Roy*
